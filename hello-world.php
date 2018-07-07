@@ -1,6 +1,6 @@
 <?php
 /**
- * An example plugin for a membership course walking readers through how to work with GitHub.
+ * A sample plugin just for Testing purpose.
  *
  * @link              https://github.com/concevoir-anshul/testplugin
  * @since             1.0.0
