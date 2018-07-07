@@ -2,13 +2,13 @@
 /**
  * An example plugin for a membership course walking readers through how to work with GitHub.
  *
- * @link              https://concevoirwebservices.com/
+ * @link              https://github.com/concevoir-anshul/testplugin
  * @since             1.0.0
  * @package           HelloWorld
  *
  * @wordpress-plugin
  * Plugin Name:       My WordPress Hello World
- * Plugin URI:        https://concevoirwebservices.com/
+ * Plugin URI:        https://github.com/concevoir-anshul/testplugin
  * Description:       A sample plugin just for Testing purpose.
  * Version:           1.0.0
  * Author:            Anshul Mahajan
