@@ -10,7 +10,7 @@
  * Plugin Name:       My WordPress Hello World
  * Plugin URI:        https://github.com/concevoir-anshul/testplugin
  * Description:       A sample plugin just for Testing purpose.
- * Version:           1.0.0
+ * Version:           2.0.0
  * Author:            Anshul Mahajan
  * Author URI:        https://concevoirwebservices.com/
  * License:           GPL-2.0+
